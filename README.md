@@ -1,6 +1,8 @@
 # qb-doorlock-okoktextui
 replaces default qbcore notify with okokNotify
 
+join discord for more [discord.gg/eWBEM4eRD2](https://discord.com/invite/eWBEM4eRD2)
+
 # PREVIEW
 
 ![image](https://github.com/kocaka14/qb-doorlock-okoktextui/assets/101359455/294579e4-b014-4041-89cb-54882ef49413)
